@@ -6,7 +6,7 @@
       <h1 class="price">{{data.price}}<span>DZD</span></h1>
       
     </div>
-    <img class="image" :src="`http://localhost:5000/${data.images_url}/0.png`" alt="">
+    <img class="image" :src="`http://13.38.4.102/api/${data.images_url}/0.png`" alt="">
     
   </div>
 </template>
