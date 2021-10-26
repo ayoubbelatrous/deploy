@@ -62,10 +62,10 @@ export default {
       }
 
       this.Data = response.data;
-      this.currentimg = `http://13.38.4.102/api/${this.Data.images_url}/0.png`;
+      this.currentimg = `http://35.181.54.50/api/${this.Data.images_url}/0.png`;
       for (let index = 0; index < this.Data.imagecount; index++) {
         this.images.push(
-          `http://13.38.4.102/api/${this.Data.images_url}/${index}.png`
+          `http://35.181.54.50/api/${this.Data.images_url}/${index}.png`
         );
       }
 

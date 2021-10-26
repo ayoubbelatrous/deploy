@@ -14,7 +14,7 @@ export default {
   props: ["id", "price", "name", "seller", "img_url"],
   methods: {
     getimage() {
-      return `http://13.38.4.102/api/${this.img_url}/0.png`;
+      return `http://35.181.54.50/api/${this.img_url}/0.png`;
     },
     geturl() {
       return `/#/product/${this.id}`;
