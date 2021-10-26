@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "summerdz123",
+    "database": "summer_db",
+    "host": "summer.cyns7nzungtr.eu-west-3.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "summerdz123",
+    "database": "summer_db",
+    "host": "summerdb.cyns7nzungtr.eu-west-3.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "summerdz123",
+    "database": "summer_db",
+    "host": "summerdb.cyns7nzungtr.eu-west-3.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
