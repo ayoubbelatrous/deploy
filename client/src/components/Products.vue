@@ -3,7 +3,7 @@
     <div class="listing">
       <img
         class="image"
-        src="http://35.181.54.50/api/images/23/preview.png"
+        src="/api/images/11/0.png"
         alt=""
       />
       <h1 class="title">IPHONE PRO MAX</h1>
